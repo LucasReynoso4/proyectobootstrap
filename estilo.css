@@ -10,15 +10,6 @@ h1{
   text-decoration: underline;
 }
 
-.contenedor {
-    border: solid black 3px;
-    background-color: white;
-    font-size: large;
-    grid-area: contenedor;
-    width: 1300px;
-    height: 300px;
-  }
-  
  p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.7rem;
