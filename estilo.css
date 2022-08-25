@@ -4,6 +4,7 @@
 
 }
 
+
 h1{
   text-align: center;
   text-decoration: underline;
@@ -23,6 +24,14 @@ h1{
     font-size: 1.7rem;
     text-align: center;
  }
+
+ .itemUno{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: rgb(216, 216, 83);
+  
+}
 
  footer {
     padding-top: 2rem;
