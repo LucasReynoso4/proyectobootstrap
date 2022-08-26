@@ -4,6 +4,10 @@
 
 }
 
+img{
+  width: 90px;
+}
+
 
 h1{
   text-align: center;
@@ -20,8 +24,8 @@ h1{
   position: fixed;
   bottom: 20px;
   right: 20px;
-  color: rgb(216, 216, 83);
   
+
 }
 
  footer {
@@ -33,4 +37,5 @@ h1{
   h4{
     color: white;
   }
+
   
