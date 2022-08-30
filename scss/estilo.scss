@@ -1,3 +1,7 @@
+
+
+$color-principal: rgb(0, 0, 0);
+
 .imgCarousel{
     height: 350px;
     object-fit: fill;
@@ -12,6 +16,7 @@ img{
 h1{
   text-align: center;
   text-decoration: underline;
+  color: $color-principal;
 }
 
  p{
@@ -30,12 +35,10 @@ h1{
 
  footer {
     padding-top: 2rem;
-    background-color: rgb(10, 1, 1);
+    background-color: $color-principal;
     grid-area: footer;
   }
   
   h4{
     color: white;
   }
-
-  
